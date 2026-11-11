@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+aiortc
+av
+streamlit-autorefresh
+supabase
