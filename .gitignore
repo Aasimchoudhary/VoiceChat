@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+signaling/node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
